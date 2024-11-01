@@ -10,6 +10,7 @@
 #include <cstdlib>
 #include <cstring>
 #include <locale.h>
+#include <math.h>
 
 void eraseLines(int count) {
     if (count > 0) {

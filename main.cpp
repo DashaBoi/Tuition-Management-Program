@@ -12,6 +12,8 @@
 #include <locale.h>
 #include <math.h>
 
+// test commit 1/11
+
 void eraseLines(int count) {
     if (count > 0) {
         printf("\x1b[2K"); // Clear current line
